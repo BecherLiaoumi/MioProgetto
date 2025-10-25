@@ -1,0 +1,7 @@
+| Azione                        | Comando                     | Cosa fa                       |
+| ----------------------------- | --------------------------- | ----------------------------- |
+| Controllo cosa è cambiato     | `git status`                | Mostra file modificati        |
+| Vedo le righe cambiate        | `git diff`                  | Mostra differenze testuali    |
+| Aggiungo le modifiche         | `git add .`                 | Prepara i file per il commit  |
+| Salvo le modifiche localmente | `git commit -m "messaggio"` | Crea un punto di salvataggio  |
+| Invia su GitHub               | `git push`                  | Aggiorna il repository online |
