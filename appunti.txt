@@ -5,4 +5,4 @@
 | Aggiungo le modifiche         | `git add .`                 | Prepara i file per il commit  |
 | Salvo le modifiche localmente | `git commit -m "messaggio"` | Crea un punto di salvataggio  |
 | Invia su GitHub               | `git push`                  | Aggiorna il repository online |
-| Riceve da GitHub	        | `git fetc`		      | Scarica nuovi commit da remoto, senza toccare file locali
+| Riceve da GitHub	        | `git fetch`		      | Scarica nuovi commit da remoto, senza toccare file locali
